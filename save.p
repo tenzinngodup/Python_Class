@@ -1,0 +1,12 @@
+(dp0
+S'lion'
+p1
+S'yellow'
+p2
+sS'kitty'
+p3
+(lp4
+I1
+aI2
+aI1
+as.
